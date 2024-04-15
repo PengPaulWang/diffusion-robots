@@ -25,7 +25,7 @@ Similar rules apply to other codes as well.
 A JupyterNote book is also provided to run the codes. All codes were ran with A100 GPU on Google Colab.
 
 
-## Potencial Problems
+## Potential Problems
 There are no known issues with the codes, but if you encouter any, please feel free to contact [Peng Wang](https://www.mmu.ac.uk/staff/profile/dr-peng-wang) at p.wang@mmu.ac.uk
 
 Considering different running environments, it is normal for the reimplementation results to be different from those in the paper. Please contact  [Peng Wang](https://www.mmu.ac.uk/staff/profile/dr-peng-wang) at p.wang@mmu.ac.uk for any issues.
