@@ -1,4 +1,4 @@
 # diffusion-robots
-ICRA2024
+IROS2024
 
 Data and codes to appear soon!
